@@ -1,5 +1,5 @@
 {
-  "name": "@appsumo/node-hubspot",
+  "name": "@formilytics/node-hubspot",
   "version": "0.0.3",
   "description": "A node.js wrapper for the Hubspot API.",
   "author": {
@@ -11,7 +11,7 @@
   "main": "./lib/hubspot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appsumo/node-hubspot.git"
+    "url": "git+https://github.com/formilytics/node-hubspot.git"
   },
   "dependencies": {
     "querystring": "^0.2.0",
